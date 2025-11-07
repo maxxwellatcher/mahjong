@@ -1,3 +1,0 @@
-/home/rayshape/mumu/project/mahjong/build/CMakeFiles/mahjong.dir
-/home/rayshape/mumu/project/mahjong/build/CMakeFiles/edit_cache.dir
-/home/rayshape/mumu/project/mahjong/build/CMakeFiles/rebuild_cache.dir
