@@ -9,8 +9,7 @@ CLANG_FORMAT=clang-format
 
 # 定义需要格式化的目录列表（相对于项目根目录）
 DIRS=(
-    "algo_service/src"
-    "tests/"
+    "src/"
 )
 
 # 检查 clang-format 是否安装

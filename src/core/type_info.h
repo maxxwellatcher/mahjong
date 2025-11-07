@@ -1,11 +1,9 @@
 #pragma once
 
-enum class SuitType {
-    None,
+enum class SuitType { None,
     Dots,
     Bamboo,
     Characters,
     Wind,
     Dragon,
-    Flower
-};
+    Flower };
