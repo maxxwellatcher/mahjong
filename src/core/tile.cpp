@@ -31,7 +31,8 @@ bool Tile::check_val(const std::string& val)
             return val == "red" || val == "green" || val == "white";
         }
         case SuitType::Flower: {
-            return val == "plum" || val == "orchid" || val == "bamboo" || val == "chrysanthemum" || val == "spring" || val == "summer" || val == "autumn" || val == "winter";
+            return val == "plum" || val == "orchid" || val == "bamboo" || val == "chrysanthemum"
+                || val == "spring" || val == "summer" || val == "autumn" || val == "winter";
         }
         default: {
             return false;
@@ -41,8 +42,11 @@ bool Tile::check_val(const std::string& val)
 }
 
 const std::map<SuitType, std::string> Tile::type_str = {
-    { SuitType::Sou, "Sou" }, { SuitType::Character, "Character" },
-    { SuitType::Dot, "Dot" }, { SuitType::Dragon, "Dragon" },
-    { SuitType::Flower, "Flower" }, { SuitType::None, "None" },
+    { SuitType::Sou, "Sou" },
+    { SuitType::Character, "Character" },
+    { SuitType::Dot, "Dot" },
+    { SuitType::Dragon, "Dragon" },
+    { SuitType::Flower, "Flower" },
+    { SuitType::None, "None" },
     { SuitType::Wind, "Wind" }
 };
