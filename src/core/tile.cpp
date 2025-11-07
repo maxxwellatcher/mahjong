@@ -5,33 +5,33 @@
 Tile::Tile(SuitType type, std::string val)
 {
     this->m_type = type;
-    if (check_val())
+    if (check_val(val))
         this->m_val = val;
     else
         throw "Invalid tile value, type:" + this->type_str.at(type);
 }
 
-bool Tile::check_val()
+bool Tile::check_val(const std::string& val)
 {
     auto ret = type_str.find(this->m_type);
     if (ret == type_str.end())
         return false;
 
     switch (ret->first) {
-        case SuitType::Dots:
-        case SuitType::Bamboo:
-        case SuitType::Characters: {
-            auto n = std::stoi(this->m_val);
+        case SuitType::Dot:
+        case SuitType::Sou:
+        case SuitType::Character: {
+            auto n = std::stoi(val);
             return 0 < n && n < 10;
         }
         case SuitType::Wind: {
-            return this->m_val == "East" || this->m_val == "South" || this->m_val == "West" || this->m_val == "North";
+            return val == "east" || val == "south" || val == "west" || val == "north";
         }
         case SuitType::Dragon: {
-            return this->m_val == "Red" || this->m_val == "Green" || this->m_val == "White";
+            return val == "red" || val == "green" || val == "white";
         }
         case SuitType::Flower: {
-            return this->m_val == "Plum" || this->m_val == "Orchid" || this->m_val == "Bamboo" || this->m_val == "Chrysanthemum";
+            return val == "plum" || val == "orchid" || val == "bamboo" || val == "chrysanthemum" || val == "spring" || val == "summer" || val == "autumn" || val == "winter";
         }
         default: {
             return false;
@@ -41,8 +41,8 @@ bool Tile::check_val()
 }
 
 const std::map<SuitType, std::string> Tile::type_str = {
-    { SuitType::Bamboo, "Bamboo" }, { SuitType::Characters, "Characters" },
-    { SuitType::Dots, "Dots" }, { SuitType::Dragon, "Dragon" },
+    { SuitType::Sou, "Sou" }, { SuitType::Character, "Character" },
+    { SuitType::Dot, "Dot" }, { SuitType::Dragon, "Dragon" },
     { SuitType::Flower, "Flower" }, { SuitType::None, "None" },
     { SuitType::Wind, "Wind" }
 };

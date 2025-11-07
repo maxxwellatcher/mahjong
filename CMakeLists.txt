@@ -13,6 +13,8 @@ foreach(file ${src_files})
 endforeach()
 message(STATUS "===============================SRC FILES=============================")
 
+include_directories(./src/core)
+
 add_executable(mahjong ${src_files})
 set_target_properties(mahjong PROPERTIES RUNTIME_OUTPUT_DIRECTORY ${CMAKE_SOURCE_DIR}/bin)
 message("executable path: ${CMAKE_SOURCE_DIR}/bin")

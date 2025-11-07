@@ -1,721 +1,721 @@
 [
   {
-    "suit_type": "dots",
+    "type": "dot",
     "val": "1",
     "id": 1
   },
   {
-    "suit_type": "dots",
+    "type": "dot",
     "val": "1",
     "id": 2
   },
   {
-    "suit_type": "dots",
+    "type": "dot",
     "val": "1",
     "id": 3
   },
   {
-    "suit_type": "dots",
+    "type": "dot",
     "val": "1",
     "id": 4
   },
   {
-    "suit_type": "dots",
+    "type": "dot",
     "val": "2",
     "id": 5
   },
   {
-    "suit_type": "dots",
+    "type": "dot",
     "val": "2",
     "id": 6
   },
   {
-    "suit_type": "dots",
+    "type": "dot",
     "val": "2",
     "id": 7
   },
   {
-    "suit_type": "dots",
+    "type": "dot",
     "val": "2",
     "id": 8
   },
   {
-    "suit_type": "dots",
+    "type": "dot",
     "val": "3",
     "id": 9
   },
   {
-    "suit_type": "dots",
+    "type": "dot",
     "val": "3",
     "id": 10
   },
   {
-    "suit_type": "dots",
+    "type": "dot",
     "val": "3",
     "id": 11
   },
   {
-    "suit_type": "dots",
+    "type": "dot",
     "val": "3",
     "id": 12
   },
   {
-    "suit_type": "dots",
+    "type": "dot",
     "val": "4",
     "id": 13
   },
   {
-    "suit_type": "dots",
+    "type": "dot",
     "val": "4",
     "id": 14
   },
   {
-    "suit_type": "dots",
+    "type": "dot",
     "val": "4",
     "id": 15
   },
   {
-    "suit_type": "dots",
+    "type": "dot",
     "val": "4",
     "id": 16
   },
   {
-    "suit_type": "dots",
+    "type": "dot",
     "val": "5",
     "id": 17
   },
   {
-    "suit_type": "dots",
+    "type": "dot",
     "val": "5",
     "id": 18
   },
   {
-    "suit_type": "dots",
+    "type": "dot",
     "val": "5",
     "id": 19
   },
   {
-    "suit_type": "dots",
+    "type": "dot",
     "val": "5",
     "id": 20
   },
   {
-    "suit_type": "dots",
+    "type": "dot",
     "val": "6",
     "id": 21
   },
   {
-    "suit_type": "dots",
+    "type": "dot",
     "val": "6",
     "id": 22
   },
   {
-    "suit_type": "dots",
+    "type": "dot",
     "val": "6",
     "id": 23
   },
   {
-    "suit_type": "dots",
+    "type": "dot",
     "val": "6",
     "id": 24
   },
   {
-    "suit_type": "dots",
+    "type": "dot",
     "val": "7",
     "id": 25
   },
   {
-    "suit_type": "dots",
+    "type": "dot",
     "val": "7",
     "id": 26
   },
   {
-    "suit_type": "dots",
+    "type": "dot",
     "val": "7",
     "id": 27
   },
   {
-    "suit_type": "dots",
+    "type": "dot",
     "val": "7",
     "id": 28
   },
   {
-    "suit_type": "dots",
+    "type": "dot",
     "val": "8",
     "id": 29
   },
   {
-    "suit_type": "dots",
+    "type": "dot",
     "val": "8",
     "id": 30
   },
   {
-    "suit_type": "dots",
+    "type": "dot",
     "val": "8",
     "id": 31
   },
   {
-    "suit_type": "dots",
+    "type": "dot",
     "val": "8",
     "id": 32
   },
   {
-    "suit_type": "dots",
+    "type": "dot",
     "val": "9",
     "id": 33
   },
   {
-    "suit_type": "dots",
+    "type": "dot",
     "val": "9",
     "id": 34
   },
   {
-    "suit_type": "dots",
+    "type": "dot",
     "val": "9",
     "id": 35
   },
   {
-    "suit_type": "dots",
+    "type": "dot",
     "val": "9",
     "id": 36
   },
   {
-    "suit_type": "bamboo",
+    "type": "sou",
     "val": "1",
     "id": 37
   },
   {
-    "suit_type": "bamboo",
+    "type": "sou",
     "val": "1",
     "id": 38
   },
   {
-    "suit_type": "bamboo",
+    "type": "sou",
     "val": "1",
     "id": 39
   },
   {
-    "suit_type": "bamboo",
+    "type": "sou",
     "val": "1",
     "id": 40
   },
   {
-    "suit_type": "bamboo",
+    "type": "sou",
     "val": "2",
     "id": 41
   },
   {
-    "suit_type": "bamboo",
+    "type": "sou",
     "val": "2",
     "id": 42
   },
   {
-    "suit_type": "bamboo",
+    "type": "sou",
     "val": "2",
     "id": 43
   },
   {
-    "suit_type": "bamboo",
+    "type": "sou",
     "val": "2",
     "id": 44
   },
   {
-    "suit_type": "bamboo",
+    "type": "sou",
     "val": "3",
     "id": 45
   },
   {
-    "suit_type": "bamboo",
+    "type": "sou",
     "val": "3",
     "id": 46
   },
   {
-    "suit_type": "bamboo",
+    "type": "sou",
     "val": "3",
     "id": 47
   },
   {
-    "suit_type": "bamboo",
+    "type": "sou",
     "val": "3",
     "id": 48
   },
   {
-    "suit_type": "bamboo",
+    "type": "sou",
     "val": "4",
     "id": 49
   },
   {
-    "suit_type": "bamboo",
+    "type": "sou",
     "val": "4",
     "id": 50
   },
   {
-    "suit_type": "bamboo",
+    "type": "sou",
     "val": "4",
     "id": 51
   },
   {
-    "suit_type": "bamboo",
+    "type": "sou",
     "val": "4",
     "id": 52
   },
   {
-    "suit_type": "bamboo",
+    "type": "sou",
     "val": "5",
     "id": 53
   },
   {
-    "suit_type": "bamboo",
+    "type": "sou",
     "val": "5",
     "id": 54
   },
   {
-    "suit_type": "bamboo",
+    "type": "sou",
     "val": "5",
     "id": 55
   },
   {
-    "suit_type": "bamboo",
+    "type": "sou",
     "val": "5",
     "id": 56
   },
   {
-    "suit_type": "bamboo",
+    "type": "sou",
     "val": "6",
     "id": 57
   },
   {
-    "suit_type": "bamboo",
+    "type": "sou",
     "val": "6",
     "id": 58
   },
   {
-    "suit_type": "bamboo",
+    "type": "sou",
     "val": "6",
     "id": 59
   },
   {
-    "suit_type": "bamboo",
+    "type": "sou",
     "val": "6",
     "id": 60
   },
   {
-    "suit_type": "bamboo",
+    "type": "sou",
     "val": "7",
     "id": 61
   },
   {
-    "suit_type": "bamboo",
+    "type": "sou",
     "val": "7",
     "id": 62
   },
   {
-    "suit_type": "bamboo",
+    "type": "sou",
     "val": "7",
     "id": 63
   },
   {
-    "suit_type": "bamboo",
+    "type": "sou",
     "val": "7",
     "id": 64
   },
   {
-    "suit_type": "bamboo",
+    "type": "sou",
     "val": "8",
     "id": 65
   },
   {
-    "suit_type": "bamboo",
+    "type": "sou",
     "val": "8",
     "id": 66
   },
   {
-    "suit_type": "bamboo",
+    "type": "sou",
     "val": "8",
     "id": 67
   },
   {
-    "suit_type": "bamboo",
+    "type": "sou",
     "val": "8",
     "id": 68
   },
   {
-    "suit_type": "bamboo",
+    "type": "sou",
     "val": "9",
     "id": 69
   },
   {
-    "suit_type": "bamboo",
+    "type": "sou",
     "val": "9",
     "id": 70
   },
   {
-    "suit_type": "bamboo",
+    "type": "sou",
     "val": "9",
     "id": 71
   },
   {
-    "suit_type": "bamboo",
+    "type": "sou",
     "val": "9",
     "id": 72
   },
   {
-    "suit_type": "characters",
+    "type": "character",
     "val": "1",
     "id": 73
   },
   {
-    "suit_type": "characters",
+    "type": "character",
     "val": "1",
     "id": 74
   },
   {
-    "suit_type": "characters",
+    "type": "character",
     "val": "1",
     "id": 75
   },
   {
-    "suit_type": "characters",
+    "type": "character",
     "val": "1",
     "id": 76
   },
   {
-    "suit_type": "characters",
+    "type": "character",
     "val": "2",
     "id": 77
   },
   {
-    "suit_type": "characters",
+    "type": "character",
     "val": "2",
     "id": 78
   },
   {
-    "suit_type": "characters",
+    "type": "character",
     "val": "2",
     "id": 79
   },
   {
-    "suit_type": "characters",
+    "type": "character",
     "val": "2",
     "id": 80
   },
   {
-    "suit_type": "characters",
+    "type": "character",
     "val": "3",
     "id": 81
   },
   {
-    "suit_type": "characters",
+    "type": "character",
     "val": "3",
     "id": 82
   },
   {
-    "suit_type": "characters",
+    "type": "character",
     "val": "3",
     "id": 83
   },
   {
-    "suit_type": "characters",
+    "type": "character",
     "val": "3",
     "id": 84
   },
   {
-    "suit_type": "characters",
+    "type": "character",
     "val": "4",
     "id": 85
   },
   {
-    "suit_type": "characters",
+    "type": "character",
     "val": "4",
     "id": 86
   },
   {
-    "suit_type": "characters",
+    "type": "character",
     "val": "4",
     "id": 87
   },
   {
-    "suit_type": "characters",
+    "type": "character",
     "val": "4",
     "id": 88
   },
   {
-    "suit_type": "characters",
+    "type": "character",
     "val": "5",
     "id": 89
   },
   {
-    "suit_type": "characters",
+    "type": "character",
     "val": "5",
     "id": 90
   },
   {
-    "suit_type": "characters",
+    "type": "character",
     "val": "5",
     "id": 91
   },
   {
-    "suit_type": "characters",
+    "type": "character",
     "val": "5",
     "id": 92
   },
   {
-    "suit_type": "characters",
+    "type": "character",
     "val": "6",
     "id": 93
   },
   {
-    "suit_type": "characters",
+    "type": "character",
     "val": "6",
     "id": 94
   },
   {
-    "suit_type": "characters",
+    "type": "character",
     "val": "6",
     "id": 95
   },
   {
-    "suit_type": "characters",
+    "type": "character",
     "val": "6",
     "id": 96
   },
   {
-    "suit_type": "characters",
+    "type": "character",
     "val": "7",
     "id": 97
   },
   {
-    "suit_type": "characters",
+    "type": "character",
     "val": "7",
     "id": 98
   },
   {
-    "suit_type": "characters",
+    "type": "character",
     "val": "7",
     "id": 99
   },
   {
-    "suit_type": "characters",
+    "type": "character",
     "val": "7",
     "id": 100
   },
   {
-    "suit_type": "characters",
+    "type": "character",
     "val": "8",
     "id": 101
   },
   {
-    "suit_type": "characters",
+    "type": "character",
     "val": "8",
     "id": 102
   },
   {
-    "suit_type": "characters",
+    "type": "character",
     "val": "8",
     "id": 103
   },
   {
-    "suit_type": "characters",
+    "type": "character",
     "val": "8",
     "id": 104
   },
   {
-    "suit_type": "characters",
+    "type": "character",
     "val": "9",
     "id": 105
   },
   {
-    "suit_type": "characters",
+    "type": "character",
     "val": "9",
     "id": 106
   },
   {
-    "suit_type": "characters",
+    "type": "character",
     "val": "9",
     "id": 107
   },
   {
-    "suit_type": "characters",
+    "type": "character",
     "val": "9",
     "id": 108
   },
   {
-    "suit_type": "wind",
+    "type": "wind",
     "val": "east",
     "id": 109
   },
   {
-    "suit_type": "wind",
+    "type": "wind",
     "val": "east",
     "id": 110
   },
   {
-    "suit_type": "wind",
+    "type": "wind",
     "val": "east",
     "id": 111
   },
   {
-    "suit_type": "wind",
+    "type": "wind",
     "val": "east",
     "id": 112
   },
   {
-    "suit_type": "wind",
+    "type": "wind",
     "val": "south",
     "id": 113
   },
   {
-    "suit_type": "wind",
+    "type": "wind",
     "val": "south",
     "id": 114
   },
   {
-    "suit_type": "wind",
+    "type": "wind",
     "val": "south",
     "id": 115
   },
   {
-    "suit_type": "wind",
+    "type": "wind",
     "val": "south",
     "id": 116
   },
   {
-    "suit_type": "wind",
+    "type": "wind",
     "val": "west",
     "id": 117
   },
   {
-    "suit_type": "wind",
+    "type": "wind",
     "val": "west",
     "id": 118
   },
   {
-    "suit_type": "wind",
+    "type": "wind",
     "val": "west",
     "id": 119
   },
   {
-    "suit_type": "wind",
+    "type": "wind",
     "val": "west",
     "id": 120
   },
   {
-    "suit_type": "wind",
+    "type": "wind",
     "val": "north",
     "id": 121
   },
   {
-    "suit_type": "wind",
+    "type": "wind",
     "val": "north",
     "id": 122
   },
   {
-    "suit_type": "wind",
+    "type": "wind",
     "val": "north",
     "id": 123
   },
   {
-    "suit_type": "wind",
+    "type": "wind",
     "val": "north",
     "id": 124
   },
   {
-    "suit_type": "dragon",
+    "type": "dragon",
     "val": "red",
     "id": 125
   },
   {
-    "suit_type": "dragon",
+    "type": "dragon",
     "val": "red",
     "id": 126
   },
   {
-    "suit_type": "dragon",
+    "type": "dragon",
     "val": "red",
     "id": 127
   },
   {
-    "suit_type": "dragon",
+    "type": "dragon",
     "val": "red",
     "id": 128
   },
   {
-    "suit_type": "dragon",
+    "type": "dragon",
     "val": "green",
     "id": 129
   },
   {
-    "suit_type": "dragon",
+    "type": "dragon",
     "val": "green",
     "id": 130
   },
   {
-    "suit_type": "dragon",
+    "type": "dragon",
     "val": "green",
     "id": 131
   },
   {
-    "suit_type": "dragon",
+    "type": "dragon",
     "val": "green",
     "id": 132
   },
   {
-    "suit_type": "dragon",
+    "type": "dragon",
     "val": "white",
     "id": 133
   },
   {
-    "suit_type": "dragon",
+    "type": "dragon",
     "val": "white",
     "id": 134
   },
   {
-    "suit_type": "dragon",
+    "type": "dragon",
     "val": "white",
     "id": 135
   },
   {
-    "suit_type": "dragon",
+    "type": "dragon",
     "val": "white",
     "id": 136
   },
   {
-    "suit_type": "flower",
+    "type": "flower",
     "val": "plum",
     "id": 137
   },
   {
-    "suit_type": "flower",
+    "type": "flower",
     "val": "orchid",
     "id": 138
   },
   {
-    "suit_type": "flower",
+    "type": "flower",
     "val": "chrysanthemum",
     "id": 139
   },
   {
-    "suit_type": "flower",
+    "type": "flower",
     "val": "bamboo",
     "id": 140
   },
   {
-    "suit_type": "flower",
+    "type": "flower",
     "val": "spring",
     "id": 141
   },
   {
-    "suit_type": "flower",
+    "type": "flower",
     "val": "summer",
     "id": 142
   },
   {
-    "suit_type": "flower",
+    "type": "flower",
     "val": "autumn",
     "id": 143
   },
   {
-    "suit_type": "flower",
+    "type": "flower",
     "val": "winter",
     "id": 144
   }

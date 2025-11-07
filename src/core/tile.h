@@ -11,7 +11,7 @@ public:
     const static std::map<SuitType, std::string> type_str;
 
 private:
-    bool check_val();
+    bool check_val(const std::string& val);
 
     SuitType m_type;
     std::string m_val;

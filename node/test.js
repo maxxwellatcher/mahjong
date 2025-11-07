@@ -9,4 +9,12 @@ tiles.forEach(tile => {
     }
     suit_types.push(tile.suit_type);
 })
-console.log("suit_types:", suit_types);
+// console.log("suit_types:", suit_types);
+
+
+tiles.forEach(tile => {
+    if(tile.suit_type == "flower")
+    {
+        console.log("tile:", tile.val);
+    }
+})
