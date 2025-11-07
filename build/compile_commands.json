@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/rayshape/mumu/project/mahjong/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/mahjong.dir/src/core/tile.cpp.o -c /home/rayshape/mumu/project/mahjong/src/core/tile.cpp",
+  "file": "/home/rayshape/mumu/project/mahjong/src/core/tile.cpp",
+  "output": "/home/rayshape/mumu/project/mahjong/build/CMakeFiles/mahjong.dir/src/core/tile.cpp.o"
+},
+{
+  "directory": "/home/rayshape/mumu/project/mahjong/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/mahjong.dir/src/main.cpp.o -c /home/rayshape/mumu/project/mahjong/src/main.cpp",
+  "file": "/home/rayshape/mumu/project/mahjong/src/main.cpp",
+  "output": "/home/rayshape/mumu/project/mahjong/build/CMakeFiles/mahjong.dir/src/main.cpp.o"
+}
+]

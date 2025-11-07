@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/rayshape/mumu/project/mahjong/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
