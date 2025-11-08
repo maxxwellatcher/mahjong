@@ -1,14 +1,19 @@
 #include "tile.h"
 #include "type_info.h"
 #include <iostream>
+#include <memory>
 
-Tile::Tile(SuitType type, std::string val)
+Tile::Tile(SuitType type, std::string val, int id)
 {
     this->m_type = type;
+    this->m_id = id;
     if (check_val(val))
         this->m_val = val;
     else
         throw "Invalid tile value, type:" + this->type_str.at(type);
+}
+Tile::Tile(std::string type, std::string val, int id)
+{
 }
 
 bool Tile::check_val(const std::string& val)
@@ -38,6 +43,11 @@ bool Tile::check_val(const std::string& val)
             return false;
         }
     }
+    return true;
+}
+
+bool Tile::check_type(const std::string& str)
+{
     return true;
 }
 

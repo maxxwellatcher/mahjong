@@ -1,0 +1,1 @@
+install(FILES ./src/core/tiles.json DESTINATION ${CMAKE_SOURCE_DIR}/bin)
