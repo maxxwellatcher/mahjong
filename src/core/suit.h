@@ -1,10 +1,10 @@
 #pragma once
-#include <list>
 #include "tile.h"
+#include <list>
 #include <vector>
 
 class Suit {
-    public:
+public:
     Suit();
 
     Suit(const Suit&) = delete;
